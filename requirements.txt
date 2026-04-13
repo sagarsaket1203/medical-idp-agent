@@ -1,0 +1,8 @@
+langgraph
+llama-index
+crewai
+mlflow
+databricks-sql-connector
+lancedb
+faiss-cpu
+folium
