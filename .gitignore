@@ -1,0 +1,29 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MLflow artifacts
+mlruns/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.
+
+# IDE files
+.vscode/
+.idea/
